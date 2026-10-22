@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-10-22",
+  "content_updated_at": "2026-10-22",
+  "focus": {
+    "title": "Enterprise onboarding. A more connected SaintSal™.",
+    "body": "Advancing the company-knowledge experience, human oversight, and the connection between desktop, mobile and web."
+  },
+  "updates": [
+    {
+      "kind": "Company announcement",
+      "title": "Enterprise momentum in education",
+      "body": "Ryan publicly announced a signed enterprise client in India’s education sector and the next phase of user onboarding.",
+      "url": "https://www.linkedin.com/posts/ryan-capatosto-saintsallabs_hacp-aiorchestration-responsibleintelligence-activity-7508427999059349504-86Jk",
+      "link_label": "Read the announcement"
+    },
+    {
+      "kind": "Product availability",
+      "title": "SaintSal™ across your screens",
+      "body": "The official download hub lists Mac, Windows, iPhone, iPad and the browser extension, alongside the web experience.",
+      "url": "https://www.saintsal.ai/download",
+      "link_label": "View official downloads"
+    },
+    {
+      "kind": "Product direction",
+      "title": "Company knowledge, with people in control",
+      "body": "SaintSal’s public product materials describe company knowledge, configurable guardrails and model routing as foundations of the experience.",
+      "url": "https://www.saintsal.ai/",
+      "link_label": "Explore the product"
+    },
+    {
+      "kind": "Team announcement",
+      "title": "Founder vision. Technical leadership.",
+      "body": "Ryan introduced Ritik Rohan as co-founder, CTO and Director of Technology Development in his public company announcement.",
+      "url": "https://www.linkedin.com/posts/ryan-capatosto-saintsallabs_hacp-aiorchestration-responsibleintelligence-activity-7508427999059349504-86Jk",
+      "link_label": "Read the team announcement"
+    }
+  ]
+}
