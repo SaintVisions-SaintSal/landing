@@ -1,18 +1,25 @@
 {
   "schema_version": 1,
-  "reviewed_at": "2026-10-22",
-  "content_updated_at": "2026-10-22",
+  "reviewed_at": "2026-10-25",
+  "content_updated_at": "2026-10-25",
   "focus": {
-    "title": "Enterprise onboarding. A more connected SaintSal™.",
-    "body": "Connecting company knowledge, human oversight and practical AI tools across desktop, mobile and web."
+    "title": "Funded to build. Preparing the next education rollout.",
+    "body": "Public priorities after SaintSal AI’s announced pre-seed close: more integrations, better voice agents, a smarter Saint CRM and the Xtudy education rollout."
   },
   "updates": [
     {
-      "kind": "Company announcement",
-      "title": "Enterprise momentum in education",
-      "body": "Ryan publicly announced a signed enterprise client in India’s education sector and the next phase of user onboarding.",
-      "url": "https://www.linkedin.com/posts/ryan-capatosto-saintsallabs_hacp-aiorchestration-responsibleintelligence-activity-7508427999059349504-86Jk",
-      "link_label": "Read the announcement"
+      "kind": "Financing announcement",
+      "title": "SaintSal AI announces pre-seed close",
+      "body": "SaintSal AI’s public company posts announce a $3.566 million pre-seed close and identify integrations, voice agents and Saint CRM as investment priorities.",
+      "url": "https://www.linkedin.com/company/saintsalai",
+      "link_label": "View the company announcement"
+    },
+    {
+      "kind": "Rollout announcement",
+      "title": "Education partnership and user milestone announced",
+      "body": "SaintSal AI announced an Xtudy education partnership and said Sal was live with 5,000 users that week. The same post presents 30,000 users as the next target, not a current total.",
+      "url": "https://www.linkedin.com/company/saintsalai",
+      "link_label": "View the rollout announcement"
     },
     {
       "kind": "Product availability",
