@@ -4,7 +4,7 @@ Three standalone, dependency-free landing pages targeting `/medtech`, `/fintech`
 
 ## Deployment status
 
-Prepared source, NOT deployed on SaintSal.ai. This repository is the founder feed repository, not a confirmed source for the live SaintSal.ai application. The connected Vercel account returned 403 for the SaintSal.ai domain; the accessible webapp redesign source does not match the live homepage. Identify the active production repository/service before integrating. Do not point the apex domain at this package or replace the main application.
+Live standalone showcase: https://saintsal-industry-showcase.vercel.app/ (Vercel project saintsal-industry-showcase, deployment dpl_E43odzXhZVCrPDF4dAYQKeaNzTYp). All three public HTTPS routes and MedTech example interaction verified in browser. No login required. Source uploaded through Vercel API; automatic Git deployments are not configured. Search engines are instructed not to index this showcase. NOT deployed on SaintSal.ai. This repository is the founder feed repository, not a confirmed source for the live SaintSal.ai application. The connected Vercel account returned 403 for the SaintSal.ai domain; the accessible webapp redesign source does not match the live homepage. Identify the active production repository/service before integrating. Do not point the apex domain at this package or replace the main application.
 
 ## Integration
 
